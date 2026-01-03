@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "running",
+    "Price": 1000,
+    "Size": "small",
+    "id": 1
+  },
+  {
+    "Name": "Nike",
+    "Price": 2000,
+    "Size": "large",
+    "id": 3
+  },
+  {
+    "Name": "Nike",
+    "Price": 5000,
+    "Size": "large",
+    "id": 4
+  }
+]
